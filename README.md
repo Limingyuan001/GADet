@@ -1,6 +1,14 @@
 # GADet
-由于一开始做的时候文章的名字叫PADet，所以代码中都使用PADet用来代指整个网络
 
-本代码基于MMDetection2.28.1，配置环境可以参考
+Since the name of the article was called PADet at the beginning, PADet is used in the code to refer to the entire network
 
-另外这个代码的路径需要修改，我当时直接使用的本地的全局路径
+This code is based on MMDetection2.28.1, the configuration environment can refer to
+
+In addition, the path of this code needs to be modified. I used the local global path directly at that time
+
+---
+
+## Training
+
+Tips：🚀️ 🚀️ 🚀️
+GADet: the config is the file of "configs/yolox/PADet_s_8x8_60e_pixray_nomosiac_.py"

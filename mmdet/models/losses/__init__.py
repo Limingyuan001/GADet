@@ -57,13 +57,13 @@ from .area_loss_L1 import AreaLoss_L1
 
 # from .area_loss_PDLC24 import AreaLoss_PDLC
 # from .area_loss_PDLC181_ijcai import AreaLoss_PDLC #用于jicai的pdlc181 他跟area_loss_PDLC24一样都是alaha=0.5，beta=1
-# from .area_loss_PDLC181 import AreaLoss_PDLC # 195
+from .area_loss_PDLC181 import AreaLoss_PDLC # 195
 # from .area_loss_PDLC182 import AreaLoss_PDLC # 196
 # from .area_loss_PDLC183 import AreaLoss_PDLC # 197
 # from .area_loss_PDLC184 import AreaLoss_PDLC # 198
 # from .area_loss_PDLC185 import AreaLoss_PDLC # 199
 # from .area_loss_PDLC181_OPIXray import AreaLoss_PDLC
-from .area_loss_PDLC24_OPIXray import AreaLoss_PDLC
+# from .area_loss_PDLC24_OPIXray import AreaLoss_PDLC
 
 
 

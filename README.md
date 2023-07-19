@@ -11,4 +11,6 @@ In addition, the path of this code needs to be modified. I used the local global
 ## Training
 
 Tips：🚀️ 🚀️ 🚀️
+
+
 GADet: the config is the file of "configs/yolox/PADet_s_8x8_60e_pixray_nomosiac_.py"
